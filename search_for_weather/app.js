@@ -1,5 +1,5 @@
 let isCHanged = false;
-// l
+
 
 let weather = {
   apiKey: "0cedd8e9fd3a8f88a6f89de248716349",
